@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/MageWare_SalesGrids",
+    "name": "OpenMageModuleFostering\/MageWare_SalesGrids",
     "type": "magento-module",
     "license": "GPL-v3.0",
     "homepage": "",
     "description": "Module for extending order management grids.",
     "authors": [
-    {
-        "name": "MageWare",
-        "email": "magentocommerce@mageware.co"
-    }
-],
+        {
+            "name": "MageWare",
+            "email": "magentocommerce@mageware.co"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
